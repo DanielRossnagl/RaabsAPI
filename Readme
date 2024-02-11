@@ -1,0 +1,10 @@
+Die RaabsTourismusApi ist eine Restfull Api die bekannte Tourismusorte der Gemeinde Raabs zur verfügung stellt.
+Das Projekt ist derzeit noch in Arbeit und braucht noch einige verbesserungen.
+
+Die Programmiersprache des Projektes ist Java.
+Benutzte Dependencies: Springboot, mySQL
+
+zukünftige erweiterungen:
+
+erweiterter Datensatz
+API key
